@@ -1,0 +1,75 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOTDKCGyb6ANJCmSP/U4n1z",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/golodenko2209/dap-2024/blob/main/rep.ipynb./les01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Отчет по лабораторной работе №1\n",
+        "Тема работы: \"Подготовка среды для анализа данных\" по дисциплине \"Анализ данных на Python\"\n",
+        "студентки очного отделения\n",
+        "3 курса 12002209 группы\n",
+        "Голоденко Дарины Руслановны\n",
+        "\n",
+        "Проверил:\n",
+        "Чеботарев Сергей Александрович\n",
+        "\n",
+        "##Цель работы:\n",
+        "Подготовить среду для анализа данных\n",
+        "\n",
+        "##Ход выполнения лабораторной работы:\n",
+        "1.   В сервисе GitHub была создана учетная запись;\n",
+        "2.   Был выполнен форк репозитория https://github.com/chebotarevsa/dap-2024;\n",
+        "3.   В Google Colab была создана учетная запись;\n",
+        "4.   Была настроена интеграция Google Colab и GitHub;\n",
+        "5.   В Google Colab был создан отчет о выполненой работе в виде файла rep.ipynb. Используйте Markdown разметку (заголовки, списки, форматированный текст, ссылки);\n",
+        "6.   Отчет был сохранен в репозиторий github в директории ./les01;\n",
+        "7.   В репозиторий https://github.com/chebotarevsa/dap-2024 был создан pull request, где название pull request имеет формат \"<Номер лабораторной работы> <Номер группы> <ФИО>\";\n",
+        "8.  Работа была сдана в системе \"Пегас\", в отчете указана ссылка на pull request.\n",
+        "\n",
+        "##Вывод:\n",
+        "В ходе выполнения лабораторной работы была подготовлена среду для анализа данных.\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "PY_0rVI3ThZD"
+      }
+    }
+  ]
+}

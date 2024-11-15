@@ -1,9 +1,0 @@
-services: 
-  dap-lab04:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    container_name: dap-lab04
-    volumes:
-      - ../.:/code:cached
-    command: sleep infinity

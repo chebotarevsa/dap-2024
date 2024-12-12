@@ -1,7 +1,7 @@
 {
-    "name": "les03",
+    "name": "dap",
     "dockerComposeFile": "docker-compose.yml",
-    "service": "dap-2024-les03",
+    "service": "dap",
     "workspaceFolder": "/code",
     "customizations": {
         "vscode": {
@@ -14,13 +14,7 @@
                 "terminal.integrated.defaultProfile.linux": "zsh",
                 "editor.formatOnSave": true
             },
-            "extensions": [
-                "ms-python.python",
-                "ms-python.debugpy",
-                "ms-python.vscode-pylance",
-                "ms-toolsai.jupyter",
-                "ms-python.debugpy"
-            ]
+            "extensions": ["ms-python.python","ms-python.debugpy", "ms-python.vscode-pylance", "ms-toolsai.jupyter"]
         }
     }
 }

@@ -1,0 +1,50 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPBzj5oE9I5eR8BHh9/Jj78",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/prosto31/les1/blob/main/rep.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Отчет о выполнении лабораторной работы 1\n",
+        "\n",
+        "### Ход работы\n",
+        "\n",
+        "1. Создана учетная запись на сервисе [GitHub](https://github.com).\n",
+        "2. Выполнен [форк репозитория](https://github.com/un4va1lablxx/DAwP-2024).\n",
+        "3. Создана учетная запись в [Google Collab](https://colab.research.google.com/).\n",
+        "4. Настроена интеграция с Google Collab.\n",
+        "5. С помощью Markdown-разметки выполнен отчет в Google Collab.\n",
+        "6. Присвоив отчету название ***rep.ipynb***, отчет был сохранен в репозиторий GitHub по директории ***./les01***.\n",
+        "7. Создан pull-request в репозиторий [преподавателя](https://github.com/chebotarevsa/dap-2024) в формате: _<Номер лабораторной работы> <Номер группы> <ФИО>_.\n",
+        "8. Создан отчет в системе [Пегас](https://pegas.bsuedu.ru/mod/assign/view.php?id=1730202)."
+      ],
+      "metadata": {
+        "id": "Xz7jdJCishp9"
+      }
+    }
+  ]
+}

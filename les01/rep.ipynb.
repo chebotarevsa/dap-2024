@@ -1,0 +1,60 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMegvDzbykh5LnxPsIue3M+",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/berryboom/dap-2024/blob/main/les01/rep.ipynb.\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "KYOQDgf45uxp"
+      },
+      "outputs": [],
+      "source": [
+        "# Отчет по лабораторной работе №1\n",
+        "## Группа: 12002208\n",
+        "## ФИО: Скоркин Родион Максимович\n",
+        "\n",
+        "### Введение\n",
+        "Подготовка среды для анализа данных на github и google colab.\n",
+        "\n",
+        "### Цели\n",
+        "- выполнить задания данные в лабораторной работе.\n",
+        "- оформить отчет о выполненой работе.\n",
+        "\n",
+        "### Выполнение работы\n",
+        "Создал учетную запись в GitHub.\n",
+        "Выполнил форк репозитория.\n",
+        "Создал учетную запись google colab.\n",
+        "настроил интеграцию колаба с гитом.\n",
+        "создал отчет в колабе о выполненой работе.\n",
+        "Сохранил отчет в репозиторий github в директории ./les01\n",
+        "\n",
+        "[Ссылка на репозиторий](https://github.com/berryboom/dap-2024)"
+      ]
+    }
+  ]
+}
